@@ -19,10 +19,10 @@ This project demonstrates how to deploy a static website using AWS S3 while appl
 ## Screenshots
 ## Screenshots
 
-![S3 Bucket](images/s3-bucket.png)
-![Static Hosting](images/static-hosting.png)
-![Bucket Policy](images/bucket-policy.png)
-![Live Website](images/live-website.png)
+![S3 Bucket] images/s3-bucket.png
+![Static Hosting]images/static-hosting.png
+![Bucket Policy] images/bucket-policy.png
+![Live Website] images/live-website.png
 
 
 
