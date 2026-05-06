@@ -17,10 +17,12 @@ This project demonstrates how to deploy a static website using AWS S3 while appl
 - Troubleshooting
 
 ## Screenshots
-![S3 Bucket]( <img width="1191" height="602" alt="Screenshot 2026-05-06 at 10 00 21 AM" src="https://github.com/user-attachments/assets/37e0a90e-40d4-45c6-a4ad-a1f88e5e7d13" /> )
-![Static Website Hosting]( <img width="1513" height="879" alt="Screenshot 2026-05-06 at 10 01 37 AM" src="https://github.com/user-attachments/assets/a6b94755-01a5-4981-bf4f-10044b2117b3" /> )
-![Website]( <img width="1501" height="964" alt="Screenshot 2026-05-06 at 10 02 43 AM" src="https://github.com/user-attachments/assets/ff7c9442-32ab-47de-9dbb-63c89da69459" /> )
-![Permissions]( <img width="1566" height="866" alt="Screenshot 2026-05-06 at 10 03 17 AM" src="https://github.com/user-attachments/assets/3bcd7fc1-06f0-4bcb-9c7e-397f5868cd32" /> )
+## Screenshots
+
+![S3 Bucket](s3-bucket.png)
+![Static Hosting](static-hosting.png)
+![Bucket Policy](bucket-policy.png)
+![Live Website](live-website.png)
 
 
 
